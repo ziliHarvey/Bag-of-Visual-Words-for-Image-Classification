@@ -1,5 +1,5 @@
 # Bag-of-Visual-Words-for-Image-Classification
-CMU 16720 Computer Vision Project, a from-scratch implementation of image classification system using Harris detector and Bag of words method.
+This repository contains a from-scratch implementation of image classification system using Harris detector and Bag of words method.
 ## Introduction  
 This project implements a scene classification system using traditional detector and descriptor approach, which is bag of visual words instead of CNN. The classification system has been tested on SUN Image database consisting of 8 secene categories including campus, bedroom, etc. The current accuracy is 48.75% with Harris detector, chi-square distance methods.  
 **_Note that this result is definitely uncomparable to state-of-art neural network which can easily achieve accuracy over 95%, however, this is a good practice to code a recognition system by hand, and have a deep and detailed understanding of how computer vision works._**  
